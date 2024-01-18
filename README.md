@@ -1,5 +1,10 @@
 # Grocery Store App
 
+
+![Grocery Store](https://github.com/haolam05/Grocery-Store/assets/71291057/7be5773e-6784-4717-9464-1b47dd45e5f6)
+
+
+
 In this project, you’ll connect Redux to a React application. You'll configure
 a Redux store, create Redux reducers and action creators, and use them in a
 Grocery Store application to add produce to a shopping cart. You'll also learn
